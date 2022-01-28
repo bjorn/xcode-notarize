@@ -23,7 +23,7 @@ The [devbotsxyz/example-macos-rings](https://github.com/devbotsxyz/example-macos
 
 ## Related Actions
 
- * [Carthage Bootstrap](https://github.com/marketplace/actions/xcode-staple) - Bootstrap your Carthage Dependencies/
+ * [Carthage Bootstrap](https://github.com/marketplace/actions/carthage-bootstrap) - Bootstrap your Carthage Dependencies.
  * [Xcode Staple](https://github.com/marketplace/actions/xcode-staple) - Staple a Notarization Ticket to your product.
 
 ## License and Contributions
